@@ -624,7 +624,7 @@ span{
     html{
         font-size: 55%;
     }
-}
+
 .services-container{
     padding-bottom: 7rem;
     grid-template-columns: repeat(2,1fr);
@@ -659,7 +659,8 @@ section{
 .footer {
     padding: 2rem 3%;
 }
-@media (max-width: 480px) {
+}
+@media (max-width: 895px) {
     .main-text {
       font-size: 16px;
       line-height: 1.4;
@@ -724,7 +725,7 @@ section{
     
     .home-content h3 {
       font-size: 2rem;
-      padding-top: 200px;
+      padding-top: 400px;
     }
     
     .home-content h1 {
@@ -741,7 +742,7 @@ section{
     .home-img {
       order: 1;
       margin-bottom: 2rem;
-      padding-top: 100px;
+      padding-top: 150px;
     }
     
     .home-img img {
