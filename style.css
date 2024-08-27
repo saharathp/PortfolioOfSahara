@@ -755,6 +755,16 @@ section{
       margin: 3rem 0;
       padding-top: 50px;
     }
+
+    .services h2 {
+      margin-bottom: 3rem;
+    }
+    
+    .services-container {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      gap: 1rem;  
+    }
     
     .footer .copyright {
       font-size: 1.2rem;
