@@ -740,13 +740,12 @@ section{
     
     .home-img {
       order: 1;
-      margin-bottom: 2rem;
+      margin-bottom: 3rem;
       padding-top: 150px;
     }
     
     .home-img img {
       width: 54vh;
-      height: auto;
     }
     
     .heading {
