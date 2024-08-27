@@ -687,14 +687,13 @@ section{
 
     .home-content h3 {
         font-size: 1.5rem;
-        padding-top: 400px;
+        padding-top: 200px;
     }
 
     .home-content h1 {
         font-size: 3.5rem;
         margin-top: 3rem;
         padding-top: 30px;
-        text-align: center;
     }
 
     .home-content p {
@@ -709,7 +708,6 @@ section{
     .home-img img {
         width: 40vh;
         height: auto;
-        align-items: center;
     }
 
     .heading {
