@@ -659,7 +659,7 @@ section{
 .footer {
     padding: 2rem 3%;
 }
-@media (max-width: 895px) {
+@media (max-width: 480px) {
     .main-text {
       font-size: 16px;
       line-height: 1.4;
