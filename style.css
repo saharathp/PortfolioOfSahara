@@ -746,7 +746,7 @@ section{
     }
     
     .home-img img {
-      width: 54vh;
+      max-width: 100%;
       height: auto;
     }
     
