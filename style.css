@@ -734,7 +734,7 @@ section{
     }
     
     .home-content p {
-      max-width: 100%;
+      width: 54vh;
       margin: 2rem 0;  
     }
     
