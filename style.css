@@ -724,7 +724,7 @@ section{
     
     .home-content h3 {
       font-size: 2rem;
-      padding-top: 400px;
+      padding-top: 200px;
     }
     
     .home-content h1 {
@@ -741,7 +741,7 @@ section{
     .home-img {
       order: 1;
       margin-bottom: 2rem;
-      padding-top: 150px;
+      padding-top: 100px;
     }
     
     .home-img img {
