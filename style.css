@@ -624,7 +624,7 @@ span{
     html{
         font-size: 55%;
     }
-
+}
 .services-container{
     padding-bottom: 7rem;
     grid-template-columns: repeat(2,1fr);
@@ -658,7 +658,6 @@ section{
 }
 .footer {
     padding: 2rem 3%;
-}
 }
 @media (max-width: 895px) {
     .main-text {
